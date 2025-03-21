@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title> College Time Table </title>
+	</head>
+	<body>
+		<center><h1> College Time Table </h1></center>
+		<table border="1" cellspacing="5" cellpadding="8">
+			<tr>
+				<th> Day </th>
+				<th> 1st lecture </th>
+				<th> 2nd lecture </th>
+				<th> 3rd lecture</th>
+				<th> 4th lecture</th>
+                <th rowspan="7">break time</th>
+				<th> 5th lecture</th>
+				<th> 6th lecture </th>
+			</tr>
+			<tr>
+				<td> Monday </td>
+				<td> English</td>
+				<td> Chemistry </td>
+				<td> Maths </td>
+				<td> EGD </td>
+				<td colspan="2"> Makeup Class</td>
+				
+			</tr>
+			<tr>
+		<td> Tuesday </td>
+		<td> Chemistry </td>
+		<td> Acp </td>
+		<td> Maths </td>
+		<td> library </td>
+		<td colspan='2'> ACP Lab </td>
+	 </tr>
+	 <tr>
+		<td> Wednesday </td>
+		<td> LLC</td>
+		<td> Chemistry </td>
+		<td> physic</td>
+		<td> W D </td>
+		<td> ACP </td>
+        <td> T.G hour </td>
+	 </tr>
+	 <tr>
+		<td> Thursday </td>
+		<td> English </td>
+		<td> E E </td>
+		<td> Maths </td>
+		<td> Chemistry </td>
+		<td colspan='5'> WD </td> </td>
+		
+	 </tr>
+	 <tr>
+		<td> Friday </td>
+		<td> EE</td>
+		<td> Maths </td>
+		<td> ACP  </td>
+		<td> English </td>
+		<td> W D</td>
+		<td> Chemistry </td>
+	 </tr>
+	 <tr>
+		<td> Saturday </td>
+		<td> LLC 2</td>
+		<td> Maths </td>
+		<td> EE </td>
+		<td> Forum </td>
+		<td> English </td>
+		<td> Miscellaneous</td>
+	 </tr>
+     
+
+		</table>
+	</body>
+</html>
