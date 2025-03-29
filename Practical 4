@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+            <title> RESUME </title>
+            <h1 align="center">RESUME</h1>
+  <style> table, th, td {border:1px solid black;}</style>
+   </head>
+   <img src="C:\Users\Lenovo\Downloads\xyz.jpg"align="right" width="200" height="150">
+ 
+ <h3 style="color:rgb(16, 16, 52);"> PERSONAL INFORMATION </h3>
+ <p><b> NAME</b> : Anshika Masand</p> 
+ <p><b>USN NO</b>- CS24069 </p> 
+ <p><b>EMAIL</b>- masandanshika@sbjit.edu.in</p> 
+ <p><b>MOBILE</b>- 9322032509</p> 
+ <hr>
+ <table border="4">
+    <tr>
+        <th>sr.no</th>
+        <th>Educational qualification</th>
+        <th>college name </th>
+        <td>year</td>
+        <th>percentage</th>
+        </tr>
+    </tr>
+    <td>1</td>
+    <td>10th</td>
+    <td>Great Britain School </td>
+    <td>2022-2023</td>
+    <td>94</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>12th</td>
+    <td>Major Hemant jakate</td>
+    <td>2023-2024</td>
+    <td>70</td>
+    </tr>
+ </table>
+ <h3 style="color:rgb(7, 7, 12);"> CAREER OBJECT </h3>
+ <p>  To work on a challenging job profile which provides an oppurtunity to enhance my technical skills and knowledge, this could provide me and insights into new aspects so that it would be helpful form my career</p>
+  <h2 style="color:rgb(20, 20, 30);">Personal Information:</h2>
+  <p><b>Name</b>:Anshika Masand</p>
+  <p><b>Branch</b>: Computer Science and Engineering</p>
+  <p><b>ID NO</b>. : CS24069</p>
+  <P><b>DOB</b>: 12/09/2006</P>
+  <p><b>Gender</b>:Female</p>
+  <p><b>AGE</b>: 19</p>
+  <p><b>Address </b>:Shantinagar Kawrapeth,Nagpur</p>
+  <p><b>Occuption</b> : Student </p>
+  <p><b>College name </b>: S. B. Jain Institute of Technology, Management and Research</p>
+<dl>
+    <h3>Known Language</h3>
+    <ul>
+        <li>English</li>
+        <li>Hindi</li>
+        <li>French</li>
+    </ul>
+</dl>
+  <br>
+  <h3><b>Date</b> : 25/3/2025</h3>
+  <h3><b>Place</b>:Nagpur</h3>
+  <h3 align="right">signature</h3>
+  <img src="C:\Users\Lenovo\Downloads\y.jpg"align="right" width="200" height="150">
+     </html>
