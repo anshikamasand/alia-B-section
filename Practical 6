@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tribute to Late Sushant Singh Rajput</title>
+  <style>
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    header {
+      background-color: grey;
+      color: black;
+      
+    }
+<fieldset>
+
+    .container {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      box-shadow: Green;
+    }
+
+    img {
+      width: 200px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+
+    h1 {
+      margin-top: 10px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding: 10px;
+      background-color:grey;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Late Sushant Singh Rajput</h1>
+  </header>
+
+  <div class="container">
+    <img src= "C:\Users\Anshika\Desktop\sushant.jpg">
+    
+    <h2>(21.01.1986 – 14.06.2020)</h2>
+    <p>Sushant Singh Rajput's inspiring legacy encourages following your passions, staying true to yourself, and embracing life's journey. His quotes and life choices highlight the importance of pursuing dreams, not just focusing on outcomes, and living in the present moment. He also emphasized the value of kindness and understanding towards others. .</p>
+    <p>“No matter what you achieve, what you want to aspire to be, or how famous and powerful you become, the most important thing is whether you are excited about each and every moment of your life because of your work and the people around you.” – Sushant Singh Rajput
+ </p>
+  </div>
+</fieldset>
+  <footer>
+    <p>" I am not lost.I am very much alive."</p>
+  </footer>
+
+</body>
+</html>
